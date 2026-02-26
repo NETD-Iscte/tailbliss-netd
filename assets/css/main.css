@@ -188,7 +188,7 @@ img[loading="lazy"] {
   --color-zinc-950: oklch(14.1% .005 285.823);
 
   /* Yellow color override with OKLCH (alias for primary) */
-  --color-indigo-50: oklch(99.7% .015 85.68);   /* Tailwind Yellow 50 */
+  --color-indigo-50: oklch(99.7% .015 85.68);
   --color-indigo-100: oklch(97.4% .029 85.68);  /* Tailwind Yellow 100 */
   --color-indigo-200: oklch(95.5% .046 85.68);  /* Tailwind Yellow 200 */
   --color-indigo-300: oklch(92.6% .063 85.68);  /* Tailwind Yellow 300 */
